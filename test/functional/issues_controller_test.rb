@@ -9040,6 +9040,4 @@ class IssuesControllerTest < Redmine::ControllerTest
       assert_select 'thead.related-issues th', text: 'Total estimated time'
     end
   end
-
-
 end
