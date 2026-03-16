@@ -8911,6 +8911,4 @@ class IssuesControllerTest < Redmine::ControllerTest
       end
     end
   end
-
-
 end
